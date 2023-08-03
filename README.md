@@ -10,9 +10,8 @@ I made sure to use only the default library of python, if one is missing after l
 ## Getting Started
 
 1. Clone this repository to your local machine:
-
 ```bash
-`https://github.com/alexdjetic/backup_qemu.git`
+git clone https://github.com/alexdjetic/backup_qemu.git
 ```
 
 ## Install
