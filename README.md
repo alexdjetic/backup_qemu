@@ -1,6 +1,7 @@
 # VM Backup Script
 
 This is a Python script for performing backups of virtual machine data. It uses the `BackupManager` class to handle backup operations and manages disk space considerations.
+I made sure to use only the default library of python, if one is missing after launch use this command: `pip install -r requirement.txt`
 
 ## Prerequisites
 
