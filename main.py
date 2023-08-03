@@ -1,4 +1,5 @@
 from backup_manager import BackupManager
+from NotEnoughSpaceException import NotEnoughSpace
 
 if __name__ == "__main__":
     try:
